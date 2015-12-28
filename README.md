@@ -1,46 +1,11 @@
 # Iconizer #
+__I've changed my username without thinking about consequences. Please visit the up to date [repo](https://github.com/raphaelhanneken/iconizer).__
+
 Create Xcode image catalogs (xcassets) on the fly. Iconizer builds the necessary file structure for you and generates all required images for App Icons, Launch Images and Image Set.
 
 ![Iconizer](screenshot.png)
 
-Visit the [homepage](http://behoernchen.github.io/iconizer/index.html) for more information. 
-
-## How do I install it? ##
-
-1. Download the latest [release](https://github.com/behoernchen/Iconizer/releases) and drop into your Application's folder.
-2. Download the source code and it compile yourself.
-
-
-
-### Looking for a way to create icns files for OS X? ###
-You want to create 1024x1024px retina sized icns for OS X, fast and easily? Make sure to check out [Icns Composer](https://github.com/behoernchen/IcnsComposer)!
-
-
-## Change log ##
-
-Oct 01, 2015 - __v2.1__
-- Ready for OS X El Capitan
-- Migrated to Swift 2.1
-- Animated window resizing
-- Fixed combined asset export for App Icons
-- Name asset catalogs before saving them
-
-July 16, 2015 - __v2.0__
-- Completely rewritten version.
-- Added support for Launch Images
-- Added support for Image Sets
-- Added auto update via the Sparkle framework
-
-May 21, 2015 - __v1.1__ [Download old version](https://bitbucket.org/behoernchen/iconizer_v1/downloads/Iconizer.dmg)
-- Fixed a bug with iDevices [Issue #2](https://github.com/behoernchen/Iconizer/issues/2)
-
-May 19, 2015 - __v1.1__
-- Added CarPlay support
-- Added support for older iOS versions
-- Moved the 'Export' button into the toolbar
-
-May 13, 2015 - __v1.0__
-- Initial commit
+Visit the [homepage](http://raphaelhanneken.github.io/iconizer/index.html) for more information. 
 
 
 ----------
